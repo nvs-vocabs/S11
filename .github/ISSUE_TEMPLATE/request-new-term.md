@@ -3,7 +3,7 @@ name: request-new-term
 about: Template to submit a new term request to the BODC Parameter Semantic Model
   life stage vocabulary (S11)
 title: 'NTR:'
-labels: ''
+labels: 'New term'
 assignees: gwemon
 
 ---
