@@ -1,5 +1,5 @@
 # S11
-A controlled vocabulary for the development stage (life stage) of a biological entity in the BODC parameter semantic model
+A controlled vocabulary for terms used to specify the development stage (lifecycle stage) of a biological entity in the BODC parameter semantic model
 
 Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S11/current/
 
